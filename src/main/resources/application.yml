@@ -1,0 +1,10 @@
+server:
+  port: 9010
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://bits-mongo:Bits%40Mongo%2139%23@cluster0.buwrs.mongodb.net/?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=true
+      database: departments
+
+
